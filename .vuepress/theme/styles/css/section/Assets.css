@@ -29,6 +29,11 @@
 }
 
 @media screen and (max-width: 1023px) {
+    #assets .cards {
+        max-width: 90vw;
+        width: 420px;
+    }
+
     #assets .section-content ul {
         columns: unset;
     }
