@@ -424,7 +424,7 @@ Programming libraries are available. Any Javascript developer can build a simple
 
 ## Interfaces and clients
 
-Major clients to interact with æternity blockchain applications, sign contract calls, and do transactions.
+A wide selection of open source wallets and clients have been created by members of the community. Everyone is encouraged to collaborate and contribute to further development of these tools. 
 
 ::: slot cards
 
@@ -454,8 +454,8 @@ Major clients to interact with æternity blockchain applications, sign contract 
 
 ## Get AE tokens
 
-It is possible to buy æternity tokens on exchanges like Binance, OKex, Huobi, gate.io and many
-others. 
+AE tokens are accessible through many exchanges worldwide.  
+
 - [![](./img/logos/Binance_icon.svg) binance](https://www.binance.com)
 - [![](./img/logos/Okex_icon.svg) okex](https://www.okex.com)
 - [![](./img/logos/Huobi_icon.svg) huobi](https://www.huobi.com)
@@ -463,7 +463,7 @@ others.
 - [![](./img/logos/Changelly_icon.svg) changelly](https://changelly.com)
 - [![](./img/logos/JellySwap_icon.svg) jelly swap](https://jelly.market)
 
-A list of exchanges can be found at <a href="https://coinmarketcap.com/currencies/aeternity/markets">CoinMarketCap</a>
+More exchanges can be found at <a href="https://coinmarketcap.com/currencies/aeternity/markets">CoinMarketCap</a>
 
 :::
 
@@ -840,7 +840,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
 
 - ![](./img/team/ashish-chawla.jpg)
   ## Ashish Chawla
-  Lead æmbassador India
+  Social Media Expert
   > ### **Ashish Chawla** [i](https://www.instagram.com/ashii_chawla/)
   > Ashish has long been a supporter of the æternity community. He started out by joining the æmbassador Program, working his way up as a Lead æmbassador after having proven his dedication to the growth of the ecosystem. A keen social media expert with knowledge of the different facets of new-age digital media, Ashish is truly a rare talent, especially considering his very young age of 23. Ashish wants to take the social media engagement of Superhero and æternity to a whole new level and set the benchmarks higher for overall online presence. Hailing from India, Ashish art directs visuals primarily for Superhero and is dedicated to improving communications for æternity through expressive media.
 
@@ -897,52 +897,56 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
 
 <Section id="who">
 
-## Some projects that use æternity
+## Projects that use æternity
+
+æternity's powerful features attract a long range of applications—with more being added to the list.
+Here are some projects that are powered by æternity technology. 
+
 
 <input type="checkbox" id="more-logos">
 
 - [![](./img/logos/logo_superhero.svg)*Superhero.com*](https://superhero.com)
-    Tip content creators and any public URL
+    Peer-to-peer social tipping platform
 - [![](./img/logos/logo_airgap.png)*Airgap*](https://airgap.it)
-    Secure wallet
+    Open source wallet that turns old, offline smartphone into a hardware wallet
 - [![](./img/logos/logo_vereign.svg)*Vereign*](https://www.vereign.com)
-    Email and documents security
+    Digital identity verification and document authentication for added online security. 
 - [![](./img/logos/logo_lexon.png)*Lexon*](http://lexon.tech)
     Human readable programming language
 - [![](./img/logos/logo_jelly_swap.png)*JELLY*](https://jelly.market)
-    Atomic swap
+    Atomic swaps from ETH, BTC to AE
 - [![](./img/logos/logo_ampnet.png)*AMPnet*](https://ampnet.io)
-    Software and exchange for electricity cooperatives
+    All-in-one platform for running energy cooperatives
 - [![](./img/logos/logo_cryptotask.png)*Crypto Task*](https://beta.cryptotask.org)
-    On-Event payment and ticketing platform
+    Decentralized freelance market ecosystem
 - [![](./img/logos/logo_smartcredit.png)*Smart credit*](https://smartcredit.io)
-    Crypto loans
+    Low collateral, transferable crypto loans 
 - [![](./img/aeternity-logo-small.svg)*AEknow*](https://aeknow.org)
-    Æternity Explorer
+    æternity explorer and resource center
 - [![](./img/logos/logo_recheck.png)*ReCheck*](https://recheck.io)
-    A platform for secure data storage and exchange
+    Trustworthy interface for secure business and consumer interactions on the blockchain
 - [![](./img/logos/logo_weidex.png)WEIDEX](https://weidex.market)
-    Multichain decentralized exchange
+    Blockchain-agnostic dApp ecosystem for exchanges
 - [![](./img/logos/logo_crypticlegends.png)Cryptic Legends](http://crypticlegends.co)
-    Mobile game
+    Blockchain-based RPG for mobile
 - [![](./img/logos/logo_abendpayments.png)Abend](https://abendpayments.com)
-    On-Event payment and ticketing platform
+    On-event payment and ticketing platform
 - [![](./img/logos/logo_homeport.png)Homeport](https://homeport.network)
     Marketplace for data from space satellites and ground stations
 - [![](./img/logos/logo_ridesafe.png)RIDESAFE](https://www.ridesafeafrica.com)
-    First aid insurance for motorbike riders in Africa
+    Blockchain-based real-time emergency response for public motorbike accidents
 - [![](./img/logos/logo_utu.png)UTU](http://protocol.utu.io)
-    Trusted Recommendation Service
+    Trusted recommendation service
 - [![](./img/logos/logo_assetify.svg)Assetify](https://www.assetify.net)
-    Platform to enable lending institutions to accept crypto assets
+    Lending framework optimized for entry into new markets
 - [![](./img/logos/logo_yair.png)YAIR](https://yair.art)
-    Platform for tokenization of media artwork
+    Platform for artwork tokenization and shared ownership
 - [![](./img/logos/logo_arkane.png)Arkane](https://arkane.network)
-    Wallet as platform for blockchain apps
+    User-friendly blockchain transition platform for businesses
 - [![](./img/logos/logo_kingfootbal.png)King Football](https://kingfootball.com)
     Verify football merchandise authenticity
 - [![](./img/logos/logo_crowdholding.svg)Crowdholding](https://www.crowdholding.com)
-    Crowd funding
+    Open innovation platform 
 
 <label for="more-logos">Show more</label>
 
