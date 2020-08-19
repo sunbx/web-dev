@@ -708,7 +708,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
 
 - ![](./img/team/ivaylo-badinov.jpg)
   ## Ivaylo Badinov
-  Design Lead
+  Superhero Developer
   > ### **Ivaylo Badinov** *jeanlucpicard.chain* [g](https://github.com/venimus) [in](https://www.linkedin.com/in/badinov/)
   > Ivaylo has 20 years of experience in development from scratch of multiple business, educational, and social platforms for various established companies and start-ups. Although having a master's degree in Electronics, he chose to work in the software development field. He first joined æternity in June 2019 as Site Reliability Engineer and later pivoted as a front-end developer and Lead for designers. He also maintains the æternity.com website and manages operations for Superhero.
 
@@ -717,18 +717,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Senior Designer
   > ### **Tsvetan Kolev** *tsvetan.chain* 
   > Tsvetan is a Sofia-based web and visual designer focused on UI/UX, implementing the best practices of user-centered design in his work. He has over 10 years of experience in the design field, ranging from digital agencies and personal clients to product companies. He is excited about blockchain technology and its disruptive potential for innovation and transformation of different sectors of the global society and economy. He considers blockchain to be one of the leading technology trends defining the next decade and further. This particular interest led him to discover æternity blockchain, joining the team in the end of 2019 as a Senior Designer. 
-
-- ![](./img/team/boris-belonjek.jpg)
-  ## Boris Bolonjek
-  Designer
-  > ### **Boris Bolonjek** *dubbwise.chain*
-  > Boris is a senior full-stack product designer with experience in automotive, blockchain, gaming, productivity, no-code, edu, and fintech startups.
-
-- ![](./img/team/leah-stuhltrager.jpg)
-  ## Leah Stuhltrager
-  Interim CMO
-  > ### **Leah Stuhltrager**
-  > Leah Stuhltrager has developed, managed, and marketed ART::TECH projects for over 20 years. Career highlights include leading projects for high-profile venues around the globe, campaigns with brands leading their industries, curating esteemed events, as well as community initiatives building industry bridges between America, Europe, Asia.
 
 - ![](./img/team/cecille.jpg)
   ## Cecille De Jesus
@@ -777,12 +765,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Developer Æmbassador Manager
   > ### **Omar Saadoun**
   > Omar Saadoun is a software engineer working on technology since ever. He worked as CEO of INMIND for many blockchain projects and discovered the full potential to unlock meaningful and real life projects in æternity. As technical lead of Americas, he is in touch with startups and companies to lead them in getting the best from æternity and make their technology succeed.
-
-- ![](./img/team/albena.jpg)
-  ## Albena Kostova
-  Superhero Aficionado
-  > ### **Albena Kostova**
-  > Albena joined the team with a fascination for blockchain technology and its potential to change how we conduct our lives. Holding a bachelor's degree in European Studies and a master's degree in Entrepreneurship, she brings her experience in Information Services, Due Diligence, and Anti-Money Laundering Services. Currently focusing on outreach to expand mainstream use through Superhero, Albena is responsible for onboarding new users to the platform. Through her work, Albena is pushing to grow the community worldwide at a massive rate, and to deliver a free and fairer Internet to those who need it the most through æternity technology.
 
 - ![](./img/team/helmut-muller.jpg)
   ## Helmut Müller
