@@ -580,12 +580,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Dimitar Ivanov** *dimitar.chain*
   > Dimitar joined the project because he was impressed both by æternity’s balanced approach and the star team of developers already involved in it. With a bachelor’s degree in Software Engineering, he spent a couple of years writing banking software and as a result, now maintains a distinct mistrust of banks. He currently works as a software engineer and has participated in the development of every part of the æternity node. His ability to build rock-solid software, coupled with his fascination for the differences between traditional server software and blockchain (with regard to malicious nodes) makes him a valuable member of the team. He is happy to re-wire his brain to rise to this very interesting challenge. Through this work, Dimitar would like to make the world a better place. 
 
-- ![](./img/team/aleksandar-filipov.jpg)
-  ## Aleksandar Filipov
-  Core Developer
-  > ### **Aleksandar Filipov**
-  > Aleksandar likes to continuously evolve and learn. In that aspect, there are few places like æternity, where software skills really matter. He considers blockchains as a game changer and as the fundamental new protocol of the distributed world. Aleksandar has been all over, going from real time embedded OS:e where he worked with hardware and matching OpenGL ES drivers, all the way to automotive electrical systems, plus a few years with end-user apps including android apps for banking. Today, he’s a big fan of functional programming, and is a driver for æternity’s “channel services” which is a reference framework showcasing æternity’s unique state channels.
- 
 - ![](./img/team/grzegorz-uriasz.jpg)
   ## Grzegorz Uriasz
   Core Developer
@@ -730,18 +724,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Liubov Sharga** *sinonimboga.chain*
   > Liubov is an experienced marketing professional with expertise in the digital marketing area. For the past years, she has been working with blockchain startups. She was also involved in the preparation and presentation of blockchain conferences around the world. Passionate for what she does as a lifestyle, Liubov is interested in innovations that bring real benefits to business. She is impressed with the whole range of opportunities that æternity's technology offers the world and its practical implementation. Her goal is to involve more and more people to use the unique technologies that æternity provides. 
 
-- ![](./img/team/mark-le.jpg)
-  ## Mark Le
-  Chinese Community Manager
-  > ### **Mark Le**
-  > Mark believes in the full scope of the æternity blockchain and felt joining the team would be the most direct way to  promote an æ ecosystem within China. With a bachelor's degree from the Harbin Institute of Technology, Mark has experience as both the Overseas Distribution Manager in CHINT and PR Manager in Geely. Currently, he works as æternity's Chinese Community Manager, interfacing and coordinating with the Chinese community; making real-time connections between the æternity team and the community in China. His work in mining, promoting, and marketing make him the ideal person to engage the Chinese community. Mark hopes that through his work, he will be able to help establish a powerful æternity ecosystem in China.
- 
-- ![](./img/team/jose-f.jpg)
-  ## José Frugoni
-  PR and Social Media Management for Americas
-  > ### **José Frugoni**
-  > José Frugoni is part of the communications team of æternity Americas. As a professional journalist, he has worked in radio, television, and the press, specializing in the development of digital platforms. He has been linked to digital projects for business and communication platforms for more than two decades. José worked as an editor at Terra Networks Uruguay and Spain, coordinated the digital newsroom of Radio El Espectador and is a web editor for the Uruguay Semanario Búsqueda. He currently lives in Montevideo.
-
 - ![](./img/team/mariana-sanguinetti.jpg)
   ## Mariana Sanguinetti
   Public Relations Director
@@ -777,12 +759,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Head of Alliances
   > ### **Magnus Maynard**
   > Magnus believes æternity is taking Blockchain to the next level, mass adoption. With an extensive background in advanced technologies and system integration across EMEA, Asia Pacific and North America; Magnus sees æternity Blockchain as the leading light in revolutionising business practice. Having personally led integration businesses and their clients from digital to IP & streaming, Magnus is now focussed on assisting æternity partners and their clients in bringing Blockchain into relevant aspects of their business. With a fundamental belief in decentralised principles, Magnus was attracted to æternity due to its progressive thinking around this area, not only in its offering but the way of life it provides. Magnus also believes that æternity provides an unprecedented opportunity to assist the evolution of business through blockchain.
-
-- ![](./img/team/gonzalo-sobral.jpg)
-  ## Gonzalo Sobral
-  Enterprise Lead Æmbassador
-  > ### **Gonzalo Sobral**
-  > Gonzalo has a degree in Communication and a master's degree in Business Administration. For the last 20 years he has been working as Business Developer and Consultant in Digital Transformation in companies related to Data Science, Blockchain and Digital Marketing. He developed his journalistic career in radio, written press, TV and web during the last 35 years. He also teaches Innovation, Ethics and Corporate Communication at University.
 
 - ![](./img/team/ingmar-zechlin.jpg)
   ## Ingmar Zechlin
