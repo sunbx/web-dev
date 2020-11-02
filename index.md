@@ -610,12 +610,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Michał Zajda** *transcontinental.chain*
   > Michal joined æternity to take part in the dynamic phase of blockchain evolution. Holding a master's degree in Computer Science, his work background has been focused on the scalability of backend systems that support mobile communication, markets, and IoT. Currently he works as an architect, coordinating æternity's decentralized team of developers that work together to bridge the blockchain world and real-world software capabilities. His experience in navigating the complexity of knowledge around network and state, and his fascination with things like permaculture prime him to organize the self-sustaining capabilities of his work for æternity. By enabling new ways of interacting via state channels, Michal is looking forward to seeing the new value that blockchains will bring to the world. 
 
-- ![](./img/team/daniela-ivanova.jpg)
-  ## Daniela Ivanova
-  Core Developer
-  > ### **Daniela Ivanova** *danielaivanova.chain*
-  > Daniela Ivanova has been working as an Erlang/Elixir developer in Quanterall Ltd since 2016. She is keenly interested in Functional Programming, Blockchain, Distributed Systems, IoT and Software Design. 
-
 - ![](./img/team/artur.jpg)
   ## Artur Kratt
   Core Developer
@@ -670,12 +664,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Denis Davidyuk** *davidyuk.chain* [g](https://github.com/davidyuk) [in](https://www.linkedin.com/in/denis-davidyuk-9a9330141) 
   > Denis joined the team because he saw it as an opportunity to learn how to solve complex technical challenges. Having studied at the Far Eastern Federal University with a bachelor's degree in Applied Mathematics and Computer Science, he began building web applications using modern web technologies. Currently working as part of æternity's aepps development team, his focus is on refining and optimizing the Superhero wallet. His previous work in building decentralized applications helps him  make accurate technical decisions. Although Denis believes that scalability is the most significant problem that this technology currently faces, he also believes that æternity can solve it.
 
-- ![](./img/team/valentin-angelov.jpg)
-  ## Valentin Angelov
-  Superhero Developer
-  > ### **Valentin Angelov**
-  > Valentin is a full stack developer. Joined aeternity because of his interest in blockchain technology, and was initially a part of the waellet development team. He is now working on Superhero.
-
 - ![](./img/team/stanislav-slavov.jpg)
   ## Stanislav Slavov
   Superhero Developer
@@ -724,12 +712,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Liubov Sharga** *sinonimboga.chain*
   > Liubov is an experienced marketing professional with expertise in the digital marketing area. For the past years, she has been working with blockchain startups. She was also involved in the preparation and presentation of blockchain conferences around the world. Passionate for what she does as a lifestyle, Liubov is interested in innovations that bring real benefits to business. She is impressed with the whole range of opportunities that æternity's technology offers the world and its practical implementation. Her goal is to involve more and more people to use the unique technologies that æternity provides. 
 
-- ![](./img/team/mariana-sanguinetti.jpg)
-  ## Mariana Sanguinetti
-  Public Relations Director
-  > ### **Mariana Sanguinetti**
-  > With a background in Business Development, Mariana works for the expansion of æternity blockchain in Americas as part of the Americas Team, co-creating new business solutions based on blockchain, such as traceability. She feels blockchain is the future that is already here. æternity blockchain offers a safe, scalable  way for companies to switch to this new technology and her role is to enable this happening. As Public Relations Director, Mariana creates innovative experiences for people that are in contact with the æternity brand at events, gatherings, and meet ups, helping expose the use of this technology in an understandable and entertaining way.
-
  - ![](./img/team/alex-casas.jpg)
     ## Alex Casas
     Ecosystem Lead
@@ -747,12 +729,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Developer Æmbassador Manager
   > ### **Omar Saadoun**
   > Omar Saadoun is a software engineer working on technology since ever. He worked as CEO of INMIND for many blockchain projects and discovered the full potential to unlock meaningful and real life projects in æternity. As technical lead of Americas, he is in touch with startups and companies to lead them in getting the best from æternity and make their technology succeed.
-
-- ![](./img/team/helmut-muller.jpg)
-  ## Helmut Müller
-  Æternity Labs CEO
-  > ### **Helmut Müller**
-  > Helmut joined the team with a desire to get the word out about æternity’s fascinating work and state of the art blockchain. Having studied business, entrepreneurship and mechanical engineering, Helmut worked as a strategy consultant, and general manager for UK's fastest growing e-commerce startup and has been closely involved with the blockchain sphere since 2012. Currently he handles day-to-day marketing team alignments, focusing on process analysis and improvement. His previous work in strategy consulting helps him to analyze these processes to define strategy for better execution. Through this work, he would like to reestablish trust with the wider public regarding blockchain technology and blockchain funding, as well as contribute to more widespread usage of æternity blockchain.
 
 - ![](./img/team/magnus-maynard.jpg)
   ## Magnus Maynard
