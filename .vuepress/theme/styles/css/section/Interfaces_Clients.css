@@ -1,5 +1,5 @@
 #interfaces {
-    padding-bottom: 90px;
+    padding-bottom: 0;
     padding-top: 25px;
 }
 
@@ -28,9 +28,12 @@
 
 #interfaces .bottom > ul:last-of-type > li > a > img {
     border-radius: 100%;
-    box-shadow: 0 3px 6px 0 #70707070;
+    box-shadow: 0 2px 6px 0 #70707060;
     margin-bottom: 10px;
-    width: 64px;
+    width: 122px;
+    height: 122px;
+    object-fit: contain;
+    padding: 10px;
 }
 
 #interfaces .bottom p {

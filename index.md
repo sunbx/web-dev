@@ -465,10 +465,17 @@ A wide selection of open source wallets and clients have been created by members
 
 ::: slot bottom
 
-- [![](./img/logos/Trust_Wallet_icon.svg) **Trust Wallet**](https://trustwallet.com)
-- [![](./img/logos/Base_Aepps_icon.svg) **Base Wallet**](https://base.aepps.com)
-- [![](./img/logos/Waellet_icon.svg) **Waellet**](https://waellet.com)
-- [![](./img/logos/Arkane_Wallet_icon.svg) **Arkane Wallet**](https://arkane.network)
+- [![](./img/logos/Trust_Wallet_icon.png) **Trust Wallet**](https://trustwallet.com)
+- [![](./img/logos/Base_Aepps_icon.png) **Base Wallet**](https://base.aepps.com)
+- [![](./img/logos/Waellet_icon.png) **Waellet**](https://waellet.com)
+- [![](./img/logos/Arkane_Wallet_icon.png) **Arkane Wallet**](https://arkane.network)
+- [![](./img/logos/Atomic_Wallet_icon.jpeg) **Atomic Wallet**](https://atomicwallet.io/)
+
+:::
+
+</Section>
+
+<Section id="get_tokens">
 
 ## Get AE tokens
 
@@ -483,8 +490,6 @@ AE tokens are accessible through many exchanges worldwide.
 - [![](./img/logos/BcBitcoin_icon.png) bcbitcoin](https://www.bcbitcoin.co.uk)
 
 More exchanges can be found at <a href="https://coinmarketcap.com/currencies/aeternity/markets">CoinMarketCap</a>
-
-:::
 
 </Section>
 

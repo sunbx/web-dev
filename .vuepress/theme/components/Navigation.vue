@@ -19,7 +19,7 @@
                         <a href="#interfaces">Clients</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#get-ae-tokens">Get AE</a>
+                        <a href="#get_tokens">Get AE</a>
                     </li>
                     <li class="nav-item">
                         <a href="#community">Community</a>
