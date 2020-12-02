@@ -469,7 +469,6 @@ A wide selection of open source wallets and clients have been created by members
 - [![](./img/logos/Base_Aepps_icon.svg) **Base Wallet**](https://base.aepps.com)
 - [![](./img/logos/Waellet_icon.svg) **Waellet**](https://waellet.com)
 - [![](./img/logos/Arkane_Wallet_icon.svg) **Arkane Wallet**](https://arkane.network)
-- [![](./img/logos/Atomic_Wallet_icon.jpeg) **Atomic Wallet**](https://atomicwallet.io/)
 
 ## Get AE tokens
 
