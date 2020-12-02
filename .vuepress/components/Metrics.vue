@@ -39,7 +39,7 @@
                         return;
                     }
                     metric['value'] = await fetch(src['url'], {
-                        mode: 'no-cors'
+                        mode: !src['fetch-mode'] ? 'cors' : src['fetch-mode']
                     })
                         .then(async (response) => {
                             if ('headers' === src['type']) {
@@ -57,7 +57,8 @@
                                 return text;
                             });
                         })
-                        .catch(() => {
+                        .catch((e) => {
+                            console.error(e);
                             return new Promise((resolve) => resolve(value));
                         })
                         .then((data) => {

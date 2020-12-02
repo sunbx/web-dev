@@ -12,6 +12,7 @@ metrics:
       url: https://api.github.com/repositories/99802036/commits?per_page=1
       type: headers
       path: Link
+      fetch-mode: no-cors
       regex: '[\d]+(?=>; rel="last")'
   blocks:
     image: /img/Metrics_Mined.svg
@@ -22,6 +23,7 @@ metrics:
       url: https://mainnet.aeternal.io/v2/key-blocks/current/height
       type: json
       path: result.height
+      fetch-mode: cors
   transactions:
     image: /img/Metrics_Transactions.svg
     text: Total Transactions
@@ -31,6 +33,7 @@ metrics:
       url: https://mdw.aepps.com/middleware/count/current
       type: json
       path: result.count
+      fetch-mode: cors
   names:
     image: /img/Metrics_Names.svg
     text: Names Claimed
@@ -40,6 +43,7 @@ metrics:
       url: https://mainnet.aeternal.io/middleware/names
       type: json
       path: result.length
+      fetch-mode: cors
 ---
 
 ::: slot announcement
