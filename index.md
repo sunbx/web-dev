@@ -604,7 +604,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Radosław Rowicki
   Core Developer
   > ### **Radosław Rowicki** *radrowaeternity.chain*
-  > Radosław is a fan of programming languages and paradigms, especially functional ones. He did his bachelor's degree at the University of Warsaw in 2019 and joined æternity to fulfill his destiny of compiler construction by working on Sophia. He provides ideas, bug fixes, and introduces new features to the language in the purpose of making it as comfortable to use as possible. He is also the creator of the interactive shell for Sophia which simplifies the process of learning and testing smart contracts. 
+  > Radosław is a fan of programming languages and paradigms, especially functional ones. He did his bachelor's degree at the University of Warsaw in 2019 and joined æternity to fulfill his destiny of compiler construction by working on Sophia. He provides ideas, bug fixes, and introduces new features to the language in the purpose of making it as comfortable to use as possible. He is also the creator of the interactive shell for Sophia which simplifies the process of learning and testing smart contracts. 
 
 - ![](./img/team/ulf-n.jpg)
   ## Ulf Norell
@@ -664,7 +664,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Keno Dreßel
   Superhero Developer
   > ### **Keno Dreßel** *kenodressel.chain*
-  > Keno Dreßel started his software career 13 years ago with web development. Since then, he completed a bachelor's and master's degree in computer science and has been working on various full stack projects after this. After his studies, he moved to freelance fullstack projects and joined æternity development in 2018. He developed his interest in blockchain in 2015 and has been an avid user and supporter of the technology since. 
+  > Keno Dreßel started his software career 13 years ago with web development. Since then, he completed a bachelor's and master's degree in computer science and has been working on various full stack projects after this. After his studies, he moved to freelance fullstack projects and joined æternity development in 2018. He developed his interest in blockchain in 2015 and has been an avid user and supporter of the technology since. 
 
 - ![](./img/team/philipp.jpg)
   ## Philipp Piwowarsky
@@ -708,17 +708,41 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Ivaylo Badinov** *jeanlucpicard.chain* [g](https://github.com/venimus) [in](https://www.linkedin.com/in/badinov/)
   > Ivaylo has 20 years of experience in development from scratch of multiple business, educational, and social platforms for various established companies and start-ups. Although having a master's degree in Electronics, he chose to work in the software development field. He first joined æternity in June 2019 as Site Reliability Engineer and later pivoted as a front-end developer and Lead for designers. He also maintains the æternity.com website and manages operations for Superhero.
 
+- ![](./img/team/atanas-krondev.jpg)
+  ## Atanas Krondev
+  Superhero Developer
+  > ### **Atanas Krondev**
+  > Atanas is fascinated how blockchain brings innovations to every aspect of life. Mostly by the opportunity it brings for start-ups and new ventures to scale. He has been educated in software engineering and has a bachelor degree in marketing. As a Superhero front-end developer he strives to bring the best experience to the end users. He believes that a quality UI/UX will help show the true potential of æternity blockchain to the world.
+
+- ![](./img/team/ivaylo-papazov.jpg)
+  ## Ivaylo Papazov
+  Blockchain Developer
+  > ### **Ivaylo Papazov**
+  > As a proponent of transparency technologies, Ivaylo was motivated to joined æternity, after seeing what they've built up so far for the end-user - things that put them ahead of similar competitors. Having a bachelor degree in Computer Science Technology, Ivaylo has experience working on complex web-based applications - social network platforms, custom booking systems - and mobile-based applications. Now he is a part of the system reliability engineering team. As most people working in the field, Ivaylo is attracted to solving intellectual problems with the technology he is adept at. He hopes to help keep the edge of æternity over their competitors sharp.
+
+- ![](./img/team/vjacheslav-brichkovskiy.jpg)
+  ## Vjacheslav Brichkovskiy
+  Blockchain Developer
+  > ### **Vjacheslav Brichkovskiy**
+  > Vjacheslav was initially impressed by people, who developed æternity, their passion and creativity. That's why he decided to join the incredible community and be part of them. Vjacheslav is a software architect with more than 9 years of Erlang experience in development of high loaded and distributed systems (mostly focused on trading domain). Usually Vjacheslav thinks of Erlang not like language itself but as technology instead. Designed with distributed systems in mind and combined with the idea of asynchronous and message driven environments, this solution will serve as the right choice for closest decades.
+
 - ![](./img/team/tsvetan-kolev.jpg)
   ## Tsvetan Kolev
   Senior Designer
   > ### **Tsvetan Kolev** *tsvetan.chain* 
-  > Tsvetan is a Sofia-based web and visual designer focused on UI/UX, implementing the best practices of user-centered design in his work. He has over 10 years of experience in the design field, ranging from digital agencies and personal clients to product companies. He is excited about blockchain technology and its disruptive potential for innovation and transformation of different sectors of the global society and economy. He considers blockchain to be one of the leading technology trends defining the next decade and further. This particular interest led him to discover æternity blockchain, joining the team in the end of 2019 as a Senior Designer. 
+  > Tsvetan is a Sofia-based web and visual designer focused on UI/UX, implementing the best practices of user-centered design in his work. He has over 10 years of experience in the design field, ranging from digital agencies and personal clients to product companies. He is excited about blockchain technology and its disruptive potential for innovation and transformation of different sectors of the global society and economy. He considers blockchain to be one of the leading technology trends defining the next decade and further. This particular interest led him to discover æternity blockchain, joining the team in the end of 2019 as a Senior Designer. 
 
 - ![](./img/team/cecille.jpg)
   ## Cecille De Jesus
   Head of Communications
   > ### **Cecille De Jesus** *theScientress.chain*
-  > Cecille is interested in the social impact of blockchain and technology in general, particularly how decentralization can reduce inequalities—how it can change the dysfunctional ways of modern society. Before becoming part of the æternity community, she taught visual communication as well as UI/UX in colleges in the Philippines. Her background covered communications strategy, art direction, campaigns, and was a project manager and author for science and tech website Futurism. She is absolutely honored to be part of æternity, a solid project backed by rigorous research from an exceptionally talented league of programmers and a genuine drive to deliver technology for a better world. She currently works as Head of Communications.
+  > Cecille is interested in the social impact of blockchain and technology in general, particularly how decentralization can reduce inequalities—how it can change the dysfunctional ways of modern society. Before becoming part of the æternity community, she taught visual communication as well as UI/UX in colleges in the Philippines. Her background covered communications strategy, art direction, campaigns, and was a project manager and author for science and tech website Futurism. She is absolutely honored to be part of æternity, a solid project backed by rigorous research from an exceptionally talented league of programmers, and a genuine drive to deliver technology for a better world. She currently works as Head of Communications.
+
+- ![](./img/team/lale-mahrt.jpg)
+  ## Lale Mahrt
+  Accounting manager
+  > ### **Lale Mahrt**
+  > Lale joined the team with an instinct for æternity’s defining role in the exciting blockchain scene. Currently doing a Marketing Communication apprenticeship in an accounting company, she has worked extensively in gastronomy and for various start-ups as an online marketing manager. Lale’s skills in marketing and accounting, prime her for her current position as accountant and personal assistant to our COO. Her varied experience has made her proactive in thinking ahead, to find ways to make things easier for herself and others. Committed to leaving a positive contribution, or ‘footprint’, Lale would like to not only optimize accounting practices in the crypto scene, but also hopes to let people know that they are not alone.
 
 - ![](./img/team/liubov-sharga.jpg)
   ## Liubov Sharga
@@ -730,7 +754,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
     ## Alex Casas
     Ecosystem Lead
     > ### **Alex Casas**
-    > Alex was an early member of the æternity community since he knew the project in March 2017 and realized his alignment with the vision and technological potential of æternity blockchain. He has been devoted to the BPO/ITO industry related to Business development, operations, and management roles for over 17 years, scaling a company from scratch to 3.000 employees and 13 facilities in 4 countries in two years as its general manager. Passionate about blockchain potential to achieve a more balanced and fair world, he has founded or co-founded several social impact initiatives, some to be built on the æternity network. As a highly committed and hard worker, he is supporting the æcosystem growth, product development and operations to contribute together with the team to the mass adoption of æternity.
+    > Alex was an early member of the æternity community since he knew the project in March 2017 and realized his alignment with the vision and technological potential of æternity blockchain. He has been devoted to the BPO/ITO industry related to Business development, operations, and management roles for over 17 years, scaling a company from scratch to 3.000 employees and 13 facilities in 4 countries in two years as its general manager. Passionate about blockchain potential to achieve a more balanced and fair world, he has founded or co-founded several social impact initiatives, some to be built on the æternity network. As a highly committed and hard worker, he is supporting the æcosystem growth, product development and operations to contribute together with the team to the mass adoption of æternity.
 
 - ![](./img/team/erik-v.jpg)
   ## Erik Vollstädt
@@ -748,7 +772,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Magnus Maynard
   Head of Alliances
   > ### **Magnus Maynard**
-  > Magnus believes æternity is taking Blockchain to the next level, mass adoption. With an extensive background in advanced technologies and system integration across EMEA, Asia Pacific and North America; Magnus sees æternity Blockchain as the leading light in revolutionising business practice. Having personally led integration businesses and their clients from digital to IP & streaming, Magnus is now focussed on assisting æternity partners and their clients in bringing Blockchain into relevant aspects of their business. With a fundamental belief in decentralised principles, Magnus was attracted to æternity due to its progressive thinking around this area, not only in its offering but the way of life it provides. Magnus also believes that æternity provides an unprecedented opportunity to assist the evolution of business through blockchain.
+  > Magnus believes æternity is taking Blockchain to the next level, mass adoption. With an extensive background in advanced technologies and system integration across EMEA, Asia Pacific and North America; Magnus sees æternity Blockchain as the leading light in revolutionising business practice. Having personally led integration businesses and their clients from digital to IP & streaming, Magnus is now focussed on assisting æternity partners and their clients in bringing Blockchain into relevant aspects of their business. With a fundamental belief in decentralised principles, Magnus was attracted to æternity due to its progressive thinking around this area, not only in its offering but the way of life it provides. Magnus also believes that æternity provides an unprecedented opportunity to assist the evolution of business through blockchain.
 
 - ![](./img/team/ingmar-zechlin.jpg)
   ## Ingmar Zechlin
