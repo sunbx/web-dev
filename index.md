@@ -12,7 +12,7 @@ metrics:
       url: https://api.github.com/repositories/99802036/commits?per_page=1
       type: headers
       path: Link
-      fetch-mode: no-cors
+      fetch-mode: cors
       regex: '[\d]+(?=>; rel="last")'
   blocks:
     image: /img/Metrics_Mined.svg
