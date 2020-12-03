@@ -688,12 +688,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Stanislav Slavov**
   > Stanislav is a front-end developer with 5+ years of experience in developing scalable enterprise web applications and collaboration tools. He is adept in Agile, experienced in international and distributed team environments, passionate about English literature, as well as running and computer games.
 
-- ![](./img/team/petar-baykov.jpg)
-  ## Petar Baykov
-  Superhero Developer
-  > ### **Petar Baykov**
-  > Petar is a full-stack web developer currently working on the Superhero wallet and other parts of the project. He is currently completing his bachelor’s degree in Computer Science.
-
 - ![](./img/team/nikita-cedrik.jpg)
   ## Nikita Tsedrik
   Superhero Developer
