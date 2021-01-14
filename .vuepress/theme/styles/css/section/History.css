@@ -76,6 +76,7 @@
 #brief_history li:first-of-type :first-child:after {
     background: #f7296e;
     border-radius: 100%;
+    bottom: -11px;
     content: "";
     height: 21px;
     left: 0;
