@@ -656,7 +656,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Milen Radkov
   Technical Lead
   > ### **Milen Radkov** *milenradkov.chain*
-  > Milen is a blockchain developer and enthusiast, software engineer and entrepreneur who started his blockchain journey as a miner. Since the beginning of 2019, he has also been part of the European Commission Blockchain Experts representing Bulgaria. He is the founder of hack.bg, focused on developing products, smart contracts, decentralised apps, and consulting for complex software systems and the blockchain space. Milen is also the organiser of several blockchain-related technological meetups in Bulgaria. He joined the development team responsible for the waellet browser extension and later on became involved in the specification of different standards. He is currently leading the development of Superhero.
+  > Milen is a blockchain developer and enthusiast, software engineer and entrepreneur who started his blockchain journey as a miner. Since the beginning of 2019, he has also been part of the European Commission Blockchain Experts representing Bulgaria. He is the founder of hack.bg, focused on developing products, smart contracts, decentralised apps, and consulting for complex software systems and the blockchain space. Milen is also the organiser of several blockchain-related technological meetups in Bulgaria. He joined the development team responsible for the wallet browser extension and later on became involved in the specification of different standards. He is currently leading the development of Superhero.
 
 - ![](./img/team/keno-dressel.jpg)
   ## Keno Dreßel
@@ -674,13 +674,19 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Denis Davidyuk
   Superhero Developer
   > ### **Denis Davidyuk** *davidyuk.chain* [g](https://github.com/davidyuk) [in](https://www.linkedin.com/in/denis-davidyuk-9a9330141) 
-  > Denis joined the team because he saw it as an opportunity to learn how to solve complex technical challenges. Having studied at the Far Eastern Federal University with a bachelor's degree in Applied Mathematics and Computer Science, he began building web applications using modern web technologies. Currently working as part of æternity's aepps development team, his focus is on refining and optimizing the Superhero wallet. His previous work in building decentralized applications helps him  make accurate technical decisions. Although Denis believes that scalability is the most significant problem that this technology currently faces, he also believes that æternity can solve it.
+  > Denis joined the team because he saw it as an opportunity to learn how to solve complex technical challenges. Having studied at the Far Eastern Federal University with a bachelor's degree in Applied Mathematics and Computer Science, he began building web applications using modern web technologies. Currently, he is working as part of æternity's aepps development team, his focus is on refining and optimizing the Superhero wallet. His previous work in building decentralized applications helps him  make accurate technical decisions. Although Denis believes that scalability is the most significant problem that this technology currently faces, he also believes that æternity can solve it.
 
 - ![](./img/team/stanislav-slavov.jpg)
   ## Stanislav Slavov
   Superhero Developer
   > ### **Stanislav Slavov**
   > Stanislav is a front-end developer with 5+ years of experience in developing scalable enterprise web applications and collaboration tools. He is adept in Agile, experienced in international and distributed team environments, passionate about English literature, as well as running and computer games.
+
+- ![](./img/team/yuri-shapkarin.jpg)
+  ## Yuri Shapkarin
+  Superhero Developer
+  > ### **Yuri Shapkarin**
+  > Yury likes and believes in Open Source and thinks that this ideology can change the world we live in. Before æternity he was involved in great projects about bioinformatics and machine learning. He has a nice background and experience with JavaScript. Several years ago he was involved in several open-source projects and started to work on his own project. He was excited when æternity suggested to work together. He believes that the only way for the future Internet is decentralization, blockchain technologies and hard crypto protection. Also, he likes the idea of code being an art, generative art and other types of creative coding.
 
 - ![](./img/team/nikita-cedrik.jpg)
   ## Nikita Tsedrik
@@ -836,7 +842,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Emmanuel Joseph
   Lead æmbassador Ekiti
   > ### **Emmanuel Joseph** [g](https://github.com/emmanuelJet) [t](https://twitter.com/emmanuelJet_) [in](https://www.linkedin.com/in/jet774/)
-  > Emmanuel Joseph (JET) is a full-stack web developer who loves using Google and æternity tools in software development. His vision to impact young minds and his love for community building got him to lead the Developer Student Club, for Ekiti State University, Nigeria and also ækiti æmbassador. Jet has been a very active part of the community and remains one of the strongest driving forces in æternity's community growth.
+  > Emmanuel Joseph (JET) is a full-stack web developer who loves using Google and æternity tools in software development. His vision to impact young minds and his love for community building got him to lead the Developer Student Club, for Ekiti State University, Nigeria also a ækiti æmbassador. Jet has been a very active part of the community and remains one of the strongest driving forces in æternity's community growth.
 
 - ![](./img/team/juan-delpino.jpg)
   ## Juan Carlos Delpino
@@ -848,7 +854,7 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   ## Owen O’Driscoll
   Lead æmbassador Ireland
   > ### **Owen O’Driscoll** [in](https://www.linkedin.com/in/owen-o’driscoll-722b6a90/)
-  > Emerging as a proactive entrepreneurial spirit, he launched his career as a self employed restaurant owner. Ten years later his insatiable thirst for knowledge drove him to the blockchain space, which is now his main focus. His extensive business expertise and operations experience aids in the introduction of traditional operations to emerging technologies and vice versa.
+  > Emerging as a proactive entrepreneurial spirit, he launched his career as a self-employed restaurant owner. Ten years later his insatiable thirst for knowledge drove him to the blockchain space, which is now his focus. His extensive business expertise and operations experience aids in the introduction of traditional operations to emerging technologies and vice versa.
 
 - ![](./img/team/arjan-van-eersel.jpg)
   ## Arjan van Eersel
@@ -885,7 +891,7 @@ Here are some projects that are powered by æternity technology.
     Atomic swaps from ETH, BTC to AE
 - [![](./img/logos/logo_ampnet.png)*AMPnet*](https://ampnet.io)
     All-in-one platform for running energy cooperatives
-- [![](./img/logos/logo_cryptotask.png)*Crypto Task*](https://beta.cryptotask.org)
+- [![](./img/logos/logo_cryptotask.png)*Crypto Task*](https://www.cryptotask.org/)
     Decentralized freelance market ecosystem
 - [![](./img/logos/logo_smartcredit.png)*Smart credit*](https://smartcredit.io)
     Low collateral, transferable crypto loans 
