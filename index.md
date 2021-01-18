@@ -676,12 +676,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Denis Davidyuk** *davidyuk.chain* [g](https://github.com/davidyuk) [in](https://www.linkedin.com/in/denis-davidyuk-9a9330141) 
   > Denis joined the team because he saw it as an opportunity to learn how to solve complex technical challenges. Having studied at the Far Eastern Federal University with a bachelor's degree in Applied Mathematics and Computer Science, he began building web applications using modern web technologies. Currently, he is working as part of æternity's aepps development team, his focus is on refining and optimizing the Superhero wallet. His previous work in building decentralized applications helps him  make accurate technical decisions. Although Denis believes that scalability is the most significant problem that this technology currently faces, he also believes that æternity can solve it.
 
-- ![](./img/team/stanislav-slavov.jpg)
-  ## Stanislav Slavov
-  Superhero Developer
-  > ### **Stanislav Slavov**
-  > Stanislav is a front-end developer with 5+ years of experience in developing scalable enterprise web applications and collaboration tools. He is adept in Agile, experienced in international and distributed team environments, passionate about English literature, as well as running and computer games.
-
 - ![](./img/team/yuri-shapkarin.jpg)
   ## Yuri Shapkarin
   Superhero Developer
@@ -711,12 +705,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Superhero Developer
   > ### **Atanas Krondev**
   > Atanas is fascinated how blockchain brings innovations to every aspect of life. Mostly by the opportunity it brings for start-ups and new ventures to scale. He has been educated in software engineering and has a bachelor degree in marketing. As a Superhero front-end developer he strives to bring the best experience to the end users. He believes that a quality UI/UX will help show the true potential of æternity blockchain to the world.
-
-- ![](./img/team/ivaylo-papazov.jpg)
-  ## Ivaylo Papazov
-  Blockchain Developer
-  > ### **Ivaylo Papazov**
-  > As a proponent of transparency technologies, Ivaylo was motivated to joined æternity, after seeing what they've built up so far for the end-user - things that put them ahead of similar competitors. Having a bachelor degree in Computer Science Technology, Ivaylo has experience working on complex web-based applications - social network platforms, custom booking systems - and mobile-based applications. Now he is a part of the system reliability engineering team. As most people working in the field, Ivaylo is attracted to solving intellectual problems with the technology he is adept at. He hopes to help keep the edge of æternity over their competitors sharp.
 
 - ![](./img/team/vjacheslav-brichkovskiy.jpg)
   ## Vjacheslav Brichkovskiy
