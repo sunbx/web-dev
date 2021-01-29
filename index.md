@@ -718,12 +718,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   > ### **Tsvetan Kolev** *tsvetan.chain* 
   > Tsvetan is a Sofia-based web and visual designer focused on UI/UX, implementing the best practices of user-centered design in his work. He has over 10 years of experience in the design field, ranging from digital agencies and personal clients to product companies. He is excited about blockchain technology and its disruptive potential for innovation and transformation of different sectors of the global society and economy. He considers blockchain to be one of the leading technology trends defining the next decade and further. This particular interest led him to discover æternity blockchain, joining the team in the end of 2019 as a Senior Designer. 
 
-- ![](./img/team/cecille.jpg)
-  ## Cecille De Jesus
-  Head of Communications
-  > ### **Cecille De Jesus** *theScientress.chain*
-  > Cecille is interested in the social impact of blockchain and technology in general, particularly how decentralization can reduce inequalities—how it can change the dysfunctional ways of modern society. Before becoming part of the æternity community, she taught visual communication as well as UI/UX in colleges in the Philippines. Her background covered communications strategy, art direction, campaigns, and was a project manager and author for science and tech website Futurism. She is absolutely honored to be part of æternity, a solid project backed by rigorous research from an exceptionally talented league of programmers, and a genuine drive to deliver technology for a better world. She currently works as Head of Communications.
-
 - ![](./img/team/lale-mahrt.jpg)
   ## Lale Mahrt
   Accounting manager
