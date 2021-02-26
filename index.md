@@ -30,9 +30,8 @@ metrics:
     link: https://mainnet.aeternal.io/transactions
     value: 18371732
     src:
-      url: https://mdw.aepps.com/middleware/count/current
-      type: json
-      path: result.count
+      url: https://mainnet.aeternity.io/mdw/txs/count
+      type: text
       fetch-mode: cors
   names:
     image: /img/Metrics_Names.svg
@@ -747,12 +746,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   Developer Æmbassador Manager
   > ### **Omar Saadoun**
   > Omar Saadoun is a software engineer working on technology since ever. He worked as CEO of INMIND for many blockchain projects and discovered the full potential to unlock meaningful and real life projects in æternity. As technical lead of Americas, he is in touch with startups and companies to lead them in getting the best from æternity and make their technology succeed.
-
-- ![](./img/team/magnus-maynard.jpg)
-  ## Magnus Maynard
-  Head of Alliances
-  > ### **Magnus Maynard**
-  > Magnus believes æternity is taking Blockchain to the next level, mass adoption. With an extensive background in advanced technologies and system integration across EMEA, Asia Pacific and North America; Magnus sees æternity Blockchain as the leading light in revolutionising business practice. Having personally led integration businesses and their clients from digital to IP & streaming, Magnus is now focussed on assisting æternity partners and their clients in bringing Blockchain into relevant aspects of their business. With a fundamental belief in decentralised principles, Magnus was attracted to æternity due to its progressive thinking around this area, not only in its offering but the way of life it provides. Magnus also believes that æternity provides an unprecedented opportunity to assist the evolution of business through blockchain.
 
 - ![](./img/team/ingmar-zechlin.jpg)
   ## Ingmar Zechlin
