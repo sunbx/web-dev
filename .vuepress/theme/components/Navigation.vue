@@ -55,12 +55,6 @@
                         <a href="https://twitter.com/aeternity" target="_blank">
                             <img src="../../../img/Social_Twitter.svg" alt="">
                         </a>
-                        <a href="http://qm.qq.com/cgi-bin/qm/qr?k=SyRwX1h8CaeNyGpLfy0r74EYqwJ6KERj" target="_blank">
-                            <img src="../../../img/Social_QQ.svg" alt="">
-                        </a>
-                        <a href="https://weibo.com/aechinacn" target="_blank">
-                            <img src="../../../img/Social_Weibo.svg" alt="">
-                        </a>
                     </li>
                 </ul>
             </nav>
