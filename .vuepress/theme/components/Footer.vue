@@ -21,9 +21,6 @@
                 <li class="footer-icon"><a href="https://blog.aeternity.com">
                     <img src="../../../img/Footer_Medium.svg" alt=""><span>Medium</span></a>
                 </li>
-                <li class="footer-icon"><a href="https://weibo.com/aechinacn">
-                    <img src="../../../img/Footer_Weibo.svg" alt=""><span>Weibo</span></a>
-                </li>
             </ul>
             <img src="../../../img/aeternity-logo-white-stacked.svg" alt="" class="footer-logo">
             <ul class="footer-icons">
@@ -35,9 +32,6 @@
                 </li>
                 <li class="footer-icon"><a href="https://twitter.com/aeternity">
                     <img src="../../../img/Footer_Twitter.svg" alt=""><span>Twitter</span></a>
-                </li>
-                <li class="footer-icon"><a href="http://qm.qq.com/cgi-bin/qm/qr?k=SyRwX1h8CaeNyGpLfy0r74EYqwJ6KERj">
-                    <img src="../../../img/Footer_QQ.svg" alt=""><span>QQ</span></a>
                 </li>
             </ul>
         </div>

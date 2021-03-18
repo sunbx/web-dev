@@ -529,9 +529,7 @@ To get the latest version of æternity node, please check out the [latest publis
 ## Join the community
 - [![](./img/Forum_icon.svg) Forum](https://forum.aeternity.com)
 - [![](./img/Telegram_icon.svg) Telegram](https://telegram.me/aeternity)
-- [![](./img/QQ_icon.svg) QQ](http://qm.qq.com/cgi-bin/qm/qr?k=SyRwX1h8CaeNyGpLfy0r74EYqwJ6KERj)
 - [![](./img/Twitter_icon.svg) Twitter](https://twitter.com/aeternity)
-- [![](./img/Weibo_icon.svg) Weibo](https://weibo.com/aechinacn)
 - [![](./img/Youtube_icon.svg) Youtube](https://www.youtube.com/channel/UCEsM0b7QPazeMR80DxNkzCA)
 
 </Section>
