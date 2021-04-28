@@ -7,7 +7,7 @@ metrics:
     image: /img/Metrics_Commits.svg
     text: GitHub Commits
     link: https://github.com/aeternity/aeternity
-    value: 5710
+    value: 5855
     src:
       url: https://api.github.com/repositories/99802036/commits?per_page=1
       type: headers
@@ -18,7 +18,7 @@ metrics:
     image: /img/Metrics_Mined.svg
     text: Blocks Mined
     link: https://mainnet.aeternal.io/generations
-    value: 351594
+    value: 420940
     src:
       url: https://mainnet.aeternal.io/v2/key-blocks/current/height
       type: json
@@ -28,7 +28,7 @@ metrics:
     image: /img/Metrics_Transactions.svg
     text: Total Transactions
     link: https://mainnet.aeternal.io/transactions
-    value: 18371732
+    value: 21583841
     src:
       url: https://mainnet.aeternity.io/mdw/txs/count
       type: text
@@ -37,7 +37,7 @@ metrics:
     image: /img/Metrics_Names.svg
     text: Names Claimed
     link: https://mainnet.aeternal.io/names
-    value: 1680
+    value: 2980
     src:
       url: https://mainnet.aeternal.io/middleware/names
       type: json
@@ -364,7 +364,7 @@ Programming libraries are available. Any Javascript developer can build a simple
 - ![](./img/Aeternal_icon.svg)
   ### æternal Backend API
 
-  [æternal](https://github.com/aeternity/aeternal) æternal is a caching layer and API server for æternity. It is used to respond to queries faster than the node and to support queries that the node cannot support for efficiency reasons.
+  [æternal](https://github.com/aeternity/aeternal) æternal (middleware) is a caching layer and an API server for æternity. It responds faster than the node and supports queries that the node does not implement for efficiency reasons.
 - ![](./img/Terminal_icon.svg)
   ### CLI - Command Line Client
 
@@ -390,20 +390,22 @@ Programming libraries are available. Any Javascript developer can build a simple
 
 - ### Hosted API Server, Public Nodes and Services
   Several hosted services are available to enable quick-start development of blockchain applications on the Testnet. Although all services are also available for the Mainnet, it is not advisable to use them in production environments. <b>Self-hosting critical infrastructure is recommended</b>.
-  - Mainnet æternal API Server [https://mainnet.aeternal.io](https://mainnet.aeternal.io)
+  - Mainnet Middleware API Server [https://mainnet.aeternity.io/mdw](https://mainnet.aeternity.io/mdw/status)
   - Mainnet API Gateway Nodes hosted on [https://mainnet.aeternity.io/api](https://mainnet.aeternity.io/api)
-  - Testnet æternal API Server [https://testnet.aeternal.io](https://testnet.aeternal.io)
+  - Testnet Middleware API Server [https://testnet.aeternity.io/mdw](https://testnet.aeternity.io/mdw/status)
   - Testnet API Gateway Nodes hosted on [https://testnet.aeternity.io/api](https://testnet.aeternity.io/api)
+  - Mainnet æternal API Server (obsolete) [https://mainnet.aeternal.io](https://mainnet.aeternal.io)
+  - Testnet æternal API Server (obsolete) [https://testnet.aeternal.io](https://testnet.aeternal.io)
 
   > ![](./img/Faucet.svg)
   >
   > To get free Testnet AE tokens, use the [Token Faucet](https://faucet.aepps.com).
 
 - ### Resources
-  - #### Blockchain Explorers (Testnet/Mainnet)
-    - **æternal Explorer**
-      - Mainnet [https://aeternal.io](https://aeternal.io)
-      - Testnet [https://testnet.aeternal.io](https://testnet.aeternal.io)
+  - #### Blockchain Explorers (Mainnet/Testnet)
+    - **æternity Explorer**
+      - Mainnet [https://explorer.aeternity.io](https://explorer.aeternity.io)
+      - Testnet [https://explorer.testnet.aeternity.io](https://explorer.testnet.aeternity.io)
     - **AEknow**
       - [https://aeknow.org](https://aeknow.org)
     - **ænalytics**
@@ -414,6 +416,7 @@ Programming libraries are available. Any Javascript developer can build a simple
     - Ledger Hardware Wallet (desktop) [https://base.aepps.com](https://base.aepps.com)
     - Trust Wallet (Binance)  [https://trustwallet.com](https://trustwallet.com)
     - Waellet (browser extension) [https://waellet.com](https://waellet.com)
+    - Superhero wallet (multiplatform) [https://wallet.superhero.com](https://wallet.superhero.com)
     - AirGap (iOS/Android) [https://airgap.it](https://airgap.it)
     - ArkaneNetwork [https://arkane.network](https://arkane.network)
     - Atomic Wallet [https://atomicwallet.io/](https://atomicwallet.io/)
@@ -449,8 +452,8 @@ A wide selection of open source wallets and clients have been created by members
   Web, mobile app, browser extension
   [View on GitHub](https://github.com/aeternity/superhero-wallet)
 - ### Blockchain Explorers
-  - [mainnet.aeternal.io](https://mainnet.aeternal.io)
-  - [testnet.aeternal.io](https://testnet.aeternal.io)
+  - [explorer.aeternity.io](https://explorer.aeternity.io)
+  - [explorer.testnet.aeternity.io](https://explorer.testnet.aeternity.io)
   - [www.aeknow.org](https://www.aeknow.org)
   - [aenalytics.org](https://aenalytics.org)
   - [testnet.aenalytics.org](https://testnet.aenalytics.org)
@@ -750,12 +753,6 @@ envisioned powerful algorithms on blockchains. Now, with æternity, a new versio
   COO
   > ### **Ingmar Zechlin**
   > Ingmar joined æternity because of his love for innovation on many levels which is embodied by æternity in  an outstanding way. He has a track record in change management and new technologies like digital  analytics,  data science and IoT, always focusing on business strategy on one hand and coordinating the  execution on the other. In his role as COO of æternity, he leads the overall operations team, including  Operations, legal, hr and finance with the aim to support the æternity project on its great journey into mainstream.
-
-- ![](./img/team/tina.jpg)
-  ## Tina Miao
-  Operations Manager
-  > ### **Tina Miao** *freelikeabird.chain*
-  > Tina joined æternity on seeing blockchain’s massive potential to disrupt the status quo of many industries. Holding a Bachelor’s degree in Engineering and a Master's degree in Computer Science, Tina has more than 15 years’ experience driving challenging IT projects in logistics, telecommunications and the medical device industry. Currently working for the æternity Crypto Foundation and development for the Asia-Pacific region, she also handles AE token listings. As a global citizen, she has worked in Australia, China, India, Malaysia, Switzerland and is now based in Liechtenstein. Technological advancements that facilitate scalability, transparency, and privacy truly excite Tina, and she would like to contribute to æternity becoming the blockchain with the largest worldwide adoption.
 
 - ![](./img/team/olga-polishchuk.jpg)
   ## Olga Polishchuck
