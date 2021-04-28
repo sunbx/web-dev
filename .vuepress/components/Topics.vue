@@ -34,6 +34,7 @@
             pinned: { type: Boolean, default: false },
             baseUrl: { type: String, default: 'https://forum.aeternity.com' },
             topic: { type: String, default: null },
+            tag: { type: String, default: null },
             showMeta: { type: Boolean, default: false },
         },
         data() {
@@ -53,6 +54,16 @@
                     this.topics = [...topics]
                         .filter(topic => topic.visible && topic.pinned === pinned)
                         .slice(this.start, this.count);
+                }
+                if (this.tag) {
+                  let topics = await fetch(`${this.baseUrl}/tag/${this.tag}.json`)
+                    .then(response => response.json())
+                    .then(data => data['topic_list']['topics'])
+                    .catch(() => [])
+                  ;
+                  this.topics = [...topics]
+                    .filter(topic => topic.visible && topic.pinned === pinned)
+                    .slice(this.start, this.count);
                 }
                 if (this.topic) {
                     let topic = await fetch(`${this.baseUrl}/t/${this.topic}.json`)

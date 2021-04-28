@@ -898,7 +898,7 @@ Here are some projects that are powered by æternity technology.
 
 ## News & Updates
 
-<Topics id="announcements" category="announcements" :pinned="true" :count="3" :show-meta="true"/>
+<Topics id="announcements" tag="announcement" :pinned="true" :count="3" :show-meta="true"/>
 
 </Section>
 
