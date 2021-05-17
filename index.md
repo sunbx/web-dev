@@ -854,8 +854,6 @@ Here are some projects that are powered by æternity technology.
     Digital identity verification and document authentication for added online security. 
 - [![](./img/logos/logo_lexon.png)*Lexon*](http://lexon.tech)
     Human readable programming language
-- [![](./img/logos/logo_jelly_swap.png)*JELLY*](https://jelly.market)
-    Atomic swaps from ETH, BTC to AE
 - [![](./img/logos/logo_ampnet.png)*AMPnet*](https://ampnet.io)
     All-in-one platform for running energy cooperatives
 - [![](./img/logos/logo_cryptotask.png)*Crypto Task*](https://www.cryptotask.org/)
