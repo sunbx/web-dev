@@ -413,6 +413,7 @@ Programming libraries are available. Any Javascript developer can build a simple
       - Testnet [https://testnet.aenalytics.org](https://testnet.aenalytics.org)
   - #### Wallets
     - Base æpp (mobile) [https://base.aepps.com](https://base.aepps.com)
+    - Box æpp (iOS/Android) [https://www.aebox.io/](https://www.aebox.io/)
     - Ledger Hardware Wallet (desktop) [https://base.aepps.com](https://base.aepps.com)
     - Trust Wallet (Binance)  [https://trustwallet.com](https://trustwallet.com)
     - Waellet (browser extension) [https://waellet.com](https://waellet.com)
@@ -420,7 +421,7 @@ Programming libraries are available. Any Javascript developer can build a simple
     - AirGap (iOS/Android) [https://airgap.it](https://airgap.it)
     - ArkaneNetwork [https://arkane.network](https://arkane.network)
     - Atomic Wallet [https://atomicwallet.io/](https://atomicwallet.io/)
-    - Box Aepp [https://www.aebox.io/](https://www.aebox.io/)
+
     
   - #### Development grants
     - [Aeternity Foundation](https://www.aeternity-foundation.org)
