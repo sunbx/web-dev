@@ -469,7 +469,7 @@ A wide selection of open source wallets and clients have been created by members
 - [![](./img/logos/Waellet_icon.png) **Waellet**](https://waellet.com)
 - [![](./img/logos/Arkane_Wallet_icon.png) **Arkane Wallet**](https://arkane.network)
 - [![](./img/logos/Atomic_Wallet_icon.jpeg) **Atomic Wallet**](https://atomicwallet.io/)
-- [![](./img/logos/Box_aepp_icon.png) **Box aepp**](https://www.aebox.io/)
+- [![](./img/logos/Box_aepp_icon.svg) **Box Wallet**](https://www.aebox.io/)
 
 :::
 
